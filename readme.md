@@ -5,4 +5,9 @@
 
 <h5> Status do Readme: Em Desenvolvimento</h5>
 
-
+<h2> Tecnologias</h2>
+  <ul>
+  <li>Java</li>
+  <li>Spring Boot</li>
+  <li>Maven</li>
+  </ul>
